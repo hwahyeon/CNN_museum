@@ -1,0 +1,2 @@
+model_checkpoint_path: "paint_model_weight2"
+all_model_checkpoint_paths: "paint_model_weight2"
