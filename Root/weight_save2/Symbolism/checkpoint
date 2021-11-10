@@ -1,0 +1,2 @@
+model_checkpoint_path: "Symbolism_weight"
+all_model_checkpoint_paths: "Symbolism_weight"
