@@ -1,0 +1,2 @@
+model_checkpoint_path: "Abstract_Expressionism_weight"
+all_model_checkpoint_paths: "Abstract_Expressionism_weight"
